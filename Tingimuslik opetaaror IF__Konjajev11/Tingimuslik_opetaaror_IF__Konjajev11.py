@@ -1,6 +1,5 @@
 from math import*
 from random import*
-from re import L
 
 #3
 while True:
